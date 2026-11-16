@@ -11,7 +11,7 @@
                 "enabled": true,
                 "chance_to_allow_in_rotation": 0.25,
                 "disabled_before_round": 0,
-                "fills_magazine": false,
+                "fills_magazine": true,
                 "toast": "Max Ammo!",
                 "show_toast": true,
                 "model": "models/pu/maxammo!.mdl",
@@ -25,7 +25,7 @@
                 "disabled_before_round": 0,
                 "duration": 30,
                 "toast": "Insta-Kill!",
-                "show_toast": false,
+                "show_toast": true,
                 "model": "models/pu/instakill!.mdl",
                 "voiceover": "sounds/pu/insta_kill.wav"
             },
@@ -107,14 +107,6 @@
 
             "graphics":
             {
-                "quickrevive":  "gfx/hud/jphr/clean/perks/reviveDN",
-                "juggernog":    "gfx/hud/jphr/clean/perks/jugDN",
-                "speedcola":    "gfx/hud/jphr/clean/perks/speedDN",
-                "doubletap":    "gfx/hud/jphr/clean/perks/doubleDN",
-                "doubletap_2":  "gfx/hud/jphr/clean/perks/double2DN",
-                "staminup":     "gfx/hud/jphr/clean/perks/staminDN",
-                "flopper":      "gfx/hud/jphr/clean/perks/flopperDN",
-                "deadshot":     "gfx/hud/jphr/clean/perks/deadDN",
                 "mulekick":     "gfx/hud/jphr/clean/perks/muleDN"
             }
         },
